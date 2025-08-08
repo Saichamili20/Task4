@@ -1,4 +1,7 @@
 Hospital Database Analysis – mis602_ass2
+
+
+
 Project Overview
 This project contains SQL queries, views, and indexes created for analyzing a hospital management database as part of my internship tasks.
 The database includes patients, doctors, appointments, prescriptions, medications, and specialities, and the queries aim to generate meaningful healthcare insights.
